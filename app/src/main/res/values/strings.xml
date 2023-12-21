@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">andoridUIapp_ParseServer</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Paste BOTH strings as required -->
+    <string name="back4app_app_id">Rjfco5bzeSpAWSfGzQozsmfhFwEHWGBpxz48hxYU</string>
+    <string name="back4app_client_key">hCpY7V5D2l6MakRTLBiAlXP4Mso0kbz6eKrFFE8B</string>
+</resources>
